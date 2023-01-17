@@ -27,3 +27,4 @@ function getScore(score) {
 }
 
 console.log(getScore(90));
+// you can change the score and see which letter do you get. :)
